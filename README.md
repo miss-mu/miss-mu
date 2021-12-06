@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miss-mu that name oriented from my friend.
+- 👋 Hi, I’m @miss-mu that name originated from my friend.
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning reading papers 
 - 💞️ I’m looking to collaborate on 
